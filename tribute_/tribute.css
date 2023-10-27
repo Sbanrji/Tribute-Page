@@ -1,0 +1,44 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+}
+ul{
+    list-style: disc;
+}
+main{
+    padding: 50px;
+    
+    text-align: center;
+}
+#img-div{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding:20px 0 5px 0;
+    }
+    figcaption{
+        background-color: whitesmoke;
+        margin-top: 10px;
+    }
+#img-caption{
+ height: 30px;}
+#image{
+    width:50%;
+    max-width: 100%;
+    display: block;
+    border-radius: 7px;
+    margin: auto;
+    }
+   #tribute-info{
+    width:30%;
+    margin: auto;
+    text-align: left;
+}
+.heading{
+    text-align: center;
+}
+a:hover{
+ color: brown;
+}
+
+  
+  
