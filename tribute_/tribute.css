@@ -14,7 +14,7 @@ main{
     background-color: whitesmoke;
     border-radius: 10px;
     padding:20px 0 5px 0;
-    
+    border: 2px solid brown;
     }
     figcaption{
         background-color: whitesmoke;
